@@ -2,4 +2,4 @@
 Wellcome to my website.
 
 
-![](image/ẢNH TỐT NGHIỆP.jpg)
+![](ẢNH TỐT NGHIỆP.jpg)
